@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**siyaparveen/siyaparveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Siyaparveen**
 
 Here are some ideas to get you started:
 
